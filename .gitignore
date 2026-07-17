@@ -12,3 +12,6 @@ wheels/
 # environment files
 .envrc
 .env
+
+# Database files
+faq.db*
